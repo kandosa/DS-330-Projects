@@ -1,0 +1,5 @@
+# DS-330-Projects
+
+## DS 330 data visualization and analytics final projects. 
+## About data visualization PUBG top 5 players vs the rest players. 
+## Using python 3.7 plotly and matplotlib to do the visualization.
