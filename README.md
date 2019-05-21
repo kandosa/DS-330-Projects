@@ -18,7 +18,9 @@
 ## we use jupyter notebook and python 3.7 to do the most of the code
 ## The visualization package we use are plotly seaborn and matplotlib
 
-
+### The rest of the codes are in our jupyter notebook file.
+### We put our graphs into webpage: http://personal.psu.edu/jkm5697/DS330/Final%20Project/DS330GraphDisplay.html
+### Our project webpage: http://personal.psu.edu/hkh5094/DS320/Predict%20PUBG%20placement.html
 ```python
 import pandas as pd
 import seaborn as sns
@@ -434,8 +436,7 @@ print('  Number of Miramar squad matches: %i' % len(deaths_squad_mr.groupby('mat
 
 
 
-### The rest of the codes are in our jupyter notebook file.
-### We put our graphs into webpage: http://personal.psu.edu/jkm5697/DS330/Final%20Project/DS330GraphDisplay.html
+
 
 
 ```python
