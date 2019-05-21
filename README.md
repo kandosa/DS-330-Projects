@@ -7,6 +7,10 @@
 ### PlayerUnknown's Battlegrounds (PUBG) is an online multiplayer battle royale game
 ### Which the last man survive win the game
 
+# The majority of codes are in our jupyter notebook file.
+### We put our graphs into webpage: http://personal.psu.edu/jkm5697/DS330/Final%20Project/DS330GraphDisplay.html
+### Our project webpage: http://personal.psu.edu/hkh5094/DS320/Predict%20PUBG%20placement.html
+
 # Our goal
 ### Our goal is to analysis the top players and rest of the players, and trying to help players become top players
 
@@ -18,9 +22,6 @@
 ## we use jupyter notebook and python 3.7 to do the most of the code
 ## The visualization package we use are plotly seaborn and matplotlib
 
-### The rest of the codes are in our jupyter notebook file.
-### We put our graphs into webpage: http://personal.psu.edu/jkm5697/DS330/Final%20Project/DS330GraphDisplay.html
-### Our project webpage: http://personal.psu.edu/hkh5094/DS320/Predict%20PUBG%20placement.html
 ```python
 import pandas as pd
 import seaborn as sns
