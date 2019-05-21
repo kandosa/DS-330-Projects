@@ -11,7 +11,6 @@
 
 # The majority of codes are in our jupyter notebook file.
 ### We put our graphs into webpage: http://personal.psu.edu/jkm5697/DS330/Final%20Project/DS330GraphDisplay.html
-### Our project webpage: http://personal.psu.edu/hkh5094/DS320/Predict%20PUBG%20placement.html
 
 # Our goal
 ### Our goal is to analysis the top players and rest of the players, and trying to help players become top players
